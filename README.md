@@ -3,12 +3,10 @@
 # Personal Information 
 
 
-NAME
+# Name
 
 Graciella D. Balbutan 
 
-COURSE & SECTION 
 
-BSCpE/CE3A
 
 
