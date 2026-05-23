@@ -3,8 +3,7 @@
 # Personal Information 
 
 
-# Name
-Graciella D. Balbutan 
+# Name Graciella D. Balbutan 
 
 
 
