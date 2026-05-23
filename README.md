@@ -8,7 +8,7 @@
   BSCpE/CE3A
 
 
-# line
+
 # About Me
 
 
