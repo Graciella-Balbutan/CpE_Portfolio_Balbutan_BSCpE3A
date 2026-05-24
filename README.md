@@ -69,6 +69,7 @@ This is a simple C++ calculator program that performs basic arithmetic operation
 
 # Contact Information 
 Github: https://github.com/Graciella-Balbutan
+Email: graciellabalbutan2@gmail.com
 
 
 
