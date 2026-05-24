@@ -5,6 +5,8 @@
 
 <img width="1120" height="680" alt="Screenshot 2025-11-30 153027" src="https://github.com/user-attachments/assets/3efb2f71-0245-45ba-a571-a60ee753d1e7" />
 
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/3b5b777e-11e7-499e-873c-c497ef184a86" />
+
 # UI DESIGN IMAGES
 <img width="189" height="420" alt="image" src="https://github.com/user-attachments/assets/12f2a5cc-75ac-4e33-a97d-66d52ce72cf5" />
 <img width="189" height="420" alt="image" src="https://github.com/user-attachments/assets/8eb422a1-60d2-4a92-b88e-d18e44ad5684" />
