@@ -1,6 +1,6 @@
 # CpE_Portfolio_Balbutan_BSCpE3A
 
-# Personal Information 
+# PERSONAL INFORMATION
 # Name
 Graciella D. Balbutan 
 # Course & Section 
@@ -20,4 +20,12 @@ and improving my skills through different activities and projects.
 
 ✓ Teamwork skills
 
-# Project Section
+# PROJECT SECTION
+
+# 1. Weather Watch Application
+# Description:
+This app, developed in Android Studio, emphasizes user-friendliness. It integrates Google Maps, Google Weather, and Tide Forecast via web views for real-time updates. Firebase enables secure OTP-based phone number verification.
+# Website Used
+
+
+
