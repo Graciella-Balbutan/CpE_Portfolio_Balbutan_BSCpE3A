@@ -55,7 +55,7 @@ This circuit created using electronic components
 ✓ Power Supply 
 
 ✓ Wires
-# Screenshot 
+# Image
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/642c720c-d065-4833-8abe-1d4fe94f959f" />
 
 # 4. Basic Calculator Program 
