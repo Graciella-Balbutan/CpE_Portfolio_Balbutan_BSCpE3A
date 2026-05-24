@@ -28,6 +28,8 @@ This app, developed in Android Studio, emphasizes user-friendliness. It integrat
 # Website Used
 ✓ Android Studio 
 # Screenshot
+<img width="900" height="2050" alt="image" src="https://github.com/user-attachments/assets/4ac8e561-8390-4745-82a9-5153efc35bfc" />
+
 
 
 
