@@ -39,7 +39,8 @@ This Figma design presents a modern login screen for a mobile app, featuring a d
 <img width="1080" height="2042" alt="image" src="https://github.com/user-attachments/assets/4eb850e9-f651-4094-b9a6-c8f1f05ab636" />
 
 # 3. ALU PROJECT CIRCUIT 
-# DESCRIPTION: This circuit created using electronic components 
+# DESCRIPTION: 
+This circuit created using electronic components 
 # Components Used
 ✓ Logic Gates
 
