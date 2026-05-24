@@ -40,7 +40,7 @@ This Figma design presents a modern login screen for a mobile app, featuring a d
 
 # 3. ALU PROJECT CIRCUIT 
 # DESCRIPTION: 
-This circuit created using electronic components,The circuit is a hardware implementation of a 4-bit Arithmetic Logic Unit (ALU) built on interconnected breadboard.
+This circuit built using electronic components,The circuit is a hardware implementation of a 4-bit Arithmetic Logic Unit (ALU) built on interconnected breadboard.
 # Components Used
 ✓ Logic Gates
 
