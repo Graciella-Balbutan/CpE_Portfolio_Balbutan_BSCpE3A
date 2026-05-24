@@ -13,9 +13,8 @@ and improving my skills through different activities and projects.
 
 # Skills and Technologies 
 ✓ C++ programming 
-
 ✓ python programming
-
 ✓ Communication skills
-
 ✓ Teamwork skills
+
+# Project Section
