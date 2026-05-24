@@ -26,6 +26,8 @@ and improving my skills through different activities and projects.
 # Description:
 This app, developed in Android Studio, emphasizes user-friendliness. It integrates Google Maps, Google Weather, and Tide Forecast via web views for real-time updates. Firebase enables secure OTP-based phone number verification.
 # Website Used
+✓ Android Studio 
+# Screenshot
 
 
 
