@@ -30,6 +30,14 @@ This app, developed in Android Studio, emphasizes user-friendliness. It integrat
 # Screenshot
 <img width="900" height="2050" alt="image" src="https://github.com/user-attachments/assets/4ac8e561-8390-4745-82a9-5153efc35bfc" />
 
+# 2. Figma Login Screen Design 
+# Description:
+This Figma design presents a modern login screen for a mobile app, featuring a dark background, user-friendly input fields for username and password with icons, and a blue login button, all designed for easy access.
+# Websit Used 
+✓ Figma
+# Screenshot 
+
+
 
 
 
