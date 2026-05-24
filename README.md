@@ -58,7 +58,12 @@ This circuit created using electronic components
 # Screenshot 
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/642c720c-d065-4833-8abe-1d4fe94f959f" />
 
-
+# 4. Basic Calculator Program 
+# Description:
+This is a simple C++ calculator program that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. 
+# Compiler Used
+✓ C++ Compiler 
+# Screenshot 
 
 
 
